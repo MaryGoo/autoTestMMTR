@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h1>your First Heading</h1>
-<p>your first paragraph.</p>
-
+<h1>Heading</h1>
+<p>paragraph.</p>
 </body>
 </html>
